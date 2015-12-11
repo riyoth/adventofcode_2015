@@ -12,6 +12,7 @@ s = "yzbqklnj"
 #github input: iwrupvqb
 #s = "iwrupvqb"
 import hashlib
+
 def part1():
     for x in range(9999999999):
         y = hashlib.md5(bytearray(''.join((s,str(x))),'utf-8')).hexdigest()
