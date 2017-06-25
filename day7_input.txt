@@ -1,0 +1,339 @@
+~ dq -> dr
+kg | kf -> kh
+ep | eo -> eq
+44430 -> b
+~ gs -> gt
+dd | do -> dp
+eg & ei -> ej
+y & ae -> ag
+jx & jz -> ka
+lf >> 2 -> lg
+z & aa -> ac
+dy & ej -> el
+bj | bi -> bk
+kk >> 3 -> km
+~ cn -> co
+gn & gp -> gq
+cq & cs -> ct
+eo << 15 -> es
+lg | lm -> ln
+dy | ej -> ek
+~ di -> dj
+1 & fi -> fj
+kf << 15 -> kj
+~ jy -> jz
+~ ft -> fu
+fs & fu -> fv
+~ hr -> hs
+ck | cl -> cm
+jp >> 5 -> js
+iv | jb -> jc
+isi | it -> iu
+ld | le -> lf
+~ fc -> fd
+~ dm -> dn
+bn | by -> bz
+aj & al -> am
+cd << 15 -> ch
+jp & ka -> kc
+ci | ct -> cu
+gv & gx -> gy
+de & dk -> dm
+x >> 5 -> aa
+et >> 2 -> eu
+x >> 1 -> aq
+ia | ig -> ih
+bk << 1 -> ce
+y | ae -> af
+~ ca -> cb
+e & f -> h
+ia & ig -> ii
+ck & cl -> cn
+~ jh -> ji
+z | aa -> ab
+1 & en -> eo
+ib & ic -> ie
+~ eh -> ei
+iy & ja -> jb
+~ bb -> bc
+ha | gz -> hb
+1 & cx -> cy
+~ ax -> ay
+ev | ew -> ex
+bn >> 2 -> bo
+er | es -> et
+eu | fa -> fb
+jp | ka -> kb
+ea & eb -> ed
+k & m -> n
+et >> 3 -> ev
+et >> 5 -> ew
+hz >> 1 -> isi
+ki | kj -> kk
+~ h -> i
+lv << 15 -> lz
+as >> 1 -> bl
+hu << 15 -> hy
+iw & ix -> iz
+lf >> 1 -> ly
+fp | fv -> fw
+1 & am -> an
+ap << 1 -> bj
+u << 1 -> ao
+b >> 5 -> f
+jq & jw -> jy
+iu >> 3 -> iw
+ih & ij -> ik
+~ iz -> ja
+de | dk -> dl
+iu | jf -> jg
+as & bd -> bf
+b >> 3 -> e
+jq | jw -> jx
+iv & jb -> jd
+cg | ch -> ci
+iu & jf -> jh
+lx -> a
+1 & cc -> cd
+ly | lz -> ma
+~ el -> em
+1 & bh -> bi
+fb & fd -> fe
+lf | lq -> lr
+bn >> 3 -> bp
+bn & by -> ca
+af & ah -> ai
+cf << 1 -> cz
+dw | dx -> dy
+gj & gu -> gw
+jg & ji -> jj
+jr | js -> jt
+bl | bm -> bn
+gj >> 2 -> gk
+cj | cp -> cq
+gj | gu -> gv
+b | n -> o
+o & q -> r
+bi << 15 -> bm
+dy >> 1 -> er
+cu & cw -> cx
+iw | ix -> iy
+hc | hd -> he
+0 -> c
+db | dc -> dd
+kk >> 2 -> kl
+eq << 1 -> fk
+dz | ef -> eg
+~ ed -> ee
+lw | lv -> lx
+fw & fy -> fz
+dz & ef -> eh
+jp >> 3 -> jr
+lg & lm -> lo
+ci >> 2 -> cj
+be & bg -> bh
+lc << 1 -> lw
+hm & ho -> hp
+jr & js -> ju
+1 & io -> ip
+cm & co -> cp
+ib | ic -> id
+~ bf -> bg
+fo >> 5 -> fr
+ip << 15 -> it
+jt & jv -> jw
+jc & je -> jf
+du | dt -> dv
+~ fx -> fy
+aw & ay -> az
+ge << 15 -> gi
+~ ak -> al
+fm | fn -> fo
+ff & fh -> fi
+ci >> 5 -> cl
+cz | cy -> da
+~ ey -> ez
+~ ju -> jv
+~ ls -> lt
+kk & kv -> kx
+~ ii -> ij
+kl & kr -> kt
+jk << 15 -> jo
+e | f -> g
+~ bs -> bt
+hi & hk -> hl
+hz | ik -> il
+ek & em -> en
+ao | an -> ap
+dv << 1 -> ep
+an << 15 -> ar
+fo >> 1 -> gh
+~ im -> in
+kk >> 1 -> ld
+hw << 1 -> iq
+ec & ee -> ef
+hb << 1 -> hv
+kb & kd -> ke
+x & ai -> ak
+dd & do -> dq
+aq | ar -> as
+iq | ip -> ir
+dl & dn -> do
+iu >> 5 -> ix
+as | bd -> be
+~ go -> gp
+fk | fj -> fl
+jm << 1 -> kg
+~ cv -> cw
+dp & dr -> ds
+dt << 15 -> dx
+et >> 1 -> fm
+dy >> 3 -> ea
+fp & fv -> fx
+~ p -> q
+dd >> 2 -> de
+eu & fa -> fc
+ba & bc -> bd
+dh & dj -> dk
+lr & lt -> lu
+he >> 1 -> hx
+ex & ez -> fa
+df | dg -> dh
+fj << 15 -> fn
+~ kx -> ky
+gk | gq -> gr
+dy >> 2 -> dz
+gh | gi -> gj
+lj & ll -> lm
+x | ai -> aj
+bz & cb -> cc
+1 & lu -> lv
+as >> 3 -> au
+ce | cd -> cf
+il & in -> io
+dd >> 1 -> dw
+~ lo -> lp
+c << 1 -> t
+dd >> 3 -> df
+dd >> 5 -> dg
+lh & li -> lk
+lf >> 5 -> li
+dy >> 5 -> eb
+~ kt -> ku
+at | az -> ba
+x >> 3 -> z
+~ lk -> ll
+lb | la -> lc
+1 & r -> s
+lh | li -> lj
+ln & lp -> lq
+kk >> 5 -> kn
+ea | eb -> ec
+ci & ct -> cv
+b >> 2 -> d
+jp >> 1 -> ki
+~ cr -> cs
+~ jd -> je
+jp >> 2 -> jq
+jn | jo -> jp
+lf >> 3 -> lh
+1 & ds -> dt
+lf & lq -> ls
+la << 15 -> le
+~ fg -> fh
+at & az -> bb
+au & av -> ax
+kw & ky -> kz
+v | w -> x
+kk | kv -> kw
+ks & ku -> kv
+kh << 1 -> lb
+1 & kz -> la
+~ kc -> kd
+x >> 2 -> y
+et | fe -> ff
+et & fe -> fg
+~ ac -> ad
+jl | jk -> jm
+1 & jj -> jk
+bn >> 1 -> cg
+~ kp -> kq
+ci >> 3 -> ck
+ev & ew -> ey
+1 & ke -> kf
+cj & cp -> cr
+ir << 1 -> jl
+~ gw -> gx
+as >> 2 -> at
+iu >> 1 -> jn
+cy << 15 -> dc
+hg | hh -> hi
+ci >> 1 -> db
+au | av -> aw
+km & kn -> kp
+gj >> 1 -> hc
+iu >> 2 -> iv
+ab & ad -> ae
+da << 1 -> du
+~ bw -> bx
+km | kn -> ko
+ko & kq -> kr
+bv & bx -> by
+kl | kr -> ks
+1 & ht -> hu
+df & dg -> di
+~ ag -> ah
+d | j -> k
+d & j -> l
+b & n -> p
+gf | ge -> gg
+gg << 1 -> ha
+bn >> 5 -> bq
+bo | bu -> bv
+1 & gy -> gz
+s << 15 -> w
+~ ie -> if
+as >> 5 -> av
+bo & bu -> bw
+hz & ik -> im
+bp & bq -> bs
+b >> 1 -> v
+~ l -> m
+bp | bq -> br
+g & i -> j
+br & bt -> bu
+t | s -> u
+hz >> 5 -> ic
+gk & gq -> gs
+fl << 1 -> gf
+he >> 3 -> hg
+gz << 15 -> hd
+hf | hl -> hm
+1 & gd -> ge
+fo | fz -> ga
+id & if -> ig
+fo & fz -> gb
+gr & gt -> gu
+he | hp -> hq
+fq & fr -> ft
+ga & gc -> gd
+fo >> 2 -> fp
+gl | gm -> gn
+hg & hh -> hj
+~ hn -> ho
+gl & gm -> go
+he >> 5 -> hh
+~ gb -> gc
+hq & hs -> ht
+hz >> 3 -> ib
+hz >> 2 -> ia
+fq | fr -> fs
+hx | hy -> hz
+he & hp -> hr
+gj >> 5 -> gm
+hf & hl -> hn
+hv | hu -> hw
+~ hj -> hk
+gj >> 3 -> gl
+fo >> 3 -> fq
+he >> 2 -> hf
